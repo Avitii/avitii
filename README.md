@@ -1,10 +1,10 @@
 ## Hi 👋
 
-I work with networks and servers — from edge routers to boxes in the rack. Not a developer by trade, and I won't pretend otherwise. I write code when I need a tool that doesn't exist yet: telemetry collection, traffic accounting, backups, fan control. A lot of it is built with AI assistance — what matters to me is that it works and that I understand it.
+I work with networks and servers - from edge routers to boxes in the rack. Not a developer by trade, and I won't pretend otherwise. I write code when I need a tool that doesn't exist yet: telemetry collection, traffic accounting, backups, fan control. A lot of it is built with AI assistance - what matters to me is that it works and that I understand it.
 
 ### 🌫️ MistyCloud
 
-Most of what I build lives under **[MistyCloud](https://mistycloud.pl)** — Minecraft server hosting on our own hardware in a Wrocław data center. AMD Ryzen 9, DDR5, NVMe, anti-DDoS, and a custom client panel instead of an off-the-shelf one. VPS, web hosting and other game servers are next.
+Most of what I build lives under **[MistyCloud](https://mistycloud.pl)** - Minecraft server hosting on our own hardware in a Wrocław data center. AMD Ryzen 9, DDR5, NVMe, anti-DDoS, and a custom client panel instead of an off-the-shelf one. VPS, web hosting and other game servers are next.
 
 🌐 [mistycloud.pl](https://mistycloud.pl) &nbsp;·&nbsp; 🎛️ [panel](https://panel.mistycloud.pl) &nbsp;·&nbsp; 📈 [status](https://status.mistycloud.pl) &nbsp;·&nbsp; 💬 [Discord](https://discord.com/invite/bJXK9wWm5z)
 
